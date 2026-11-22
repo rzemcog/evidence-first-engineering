@@ -46,6 +46,9 @@
 - **[Управление требованиями: исследовательский цикл №1](docs/research/requirements-management/README.md)** — индекс материалов.
 - [Сравнение GRACE 4, OpenSpec, Spec Kit, Kiro, Doorstop](docs/research/requirements-management/2026-11-12-comparison.md) — первый документальный срез.
 - [Проверка механизмов требований GRACE 4](docs/research/requirements-management/2026-11-12-grace-requirements.md) — навыки, XML, approvals, verification gates.
+- [GRACE 4: source-level аудит (22 ноября)](docs/research/requirements-management/2026-11-22-grace-source-audit.md) — механизмы требований, CLI assertions, scopes, evidence, пределы доказательности.
+- [OpenSpec: первичный технический разбор](docs/research/requirements-management/2026-11-22-openspec-source-first-pass.md) — delta requirements, reconcile, merge.
+- [Реестр находок и идей](docs/research/requirements-management/2026-11-22-findings-and-proposals.md) — F01–F09, универсальные варианты и кандидаты для нашей композиции.
 - [Утверждённая методика исследования D-014](docs/research/requirements-management/2026-11-12-research-methodology.md) — анализ кода, документации, архитектуры и механизмов.
 - [Исторический план T01–T07](docs/research/requirements-management/experiments-plan.md) — не выполнялся и **не является обязательным этапом**.
 - [Architect First: SIM/FAM, pre-code gates и границы доказательности](docs/research/architecture/2026-11-22-architect-first.md) — анализ опубликованной модели и работающего примера; предложение P-002 находится в нашей композиции.
