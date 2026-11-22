@@ -48,6 +48,7 @@
 - [Проверка механизмов требований GRACE 4](docs/research/requirements-management/2026-11-12-grace-requirements.md) — навыки, XML, approvals, verification gates.
 - [Утверждённая методика исследования D-014](docs/research/requirements-management/2026-11-12-research-methodology.md) — анализ кода, документации, архитектуры и механизмов.
 - [Исторический план T01–T07](docs/research/requirements-management/experiments-plan.md) — не выполнялся и **не является обязательным этапом**.
+- [Architect First: SIM/FAM, pre-code gates и границы доказательности](docs/research/architecture/2026-11-22-architect-first.md) — анализ опубликованной модели и работающего примера; предложение P-002 находится в нашей композиции.
 - [Общий каталог кандидатов](docs/reuse-candidates.md) — другие направления и инструменты.
 
 ## Два направления проекта
